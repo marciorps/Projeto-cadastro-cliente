@@ -3,7 +3,7 @@ from datetime import datetime
 import random
 
 
-print('-----------Bem vindo a nossa empresa-----------)
+print('-----------Bem vindo a nossa empresa-----------')
 nome = input('Digite seu nome:')
 idade = input('Digite seu idade:')
 data_de_registro = datetime.now().date()
